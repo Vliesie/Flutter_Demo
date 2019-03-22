@@ -1,0 +1,9 @@
+******=======================================================================================*******
+
+====== Just a simple Demonstraition app designed to hook in as a Template for other Flutter apps =====
+
+******=========================================================================================*****
+
+====== Feel free to use anything, I cannot Garuntee the Photos im using are free to use So ========
+
+        ====== All rights & Credits reserved to those of the orignal creator's =======
